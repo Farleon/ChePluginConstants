@@ -3,8 +3,8 @@ service
 END_OF_FOLDERS
 
 START_OF_FILES
-manifest.json:::linktomanifest.json
-service//index.js:::linktoindex.js
+manifest.json:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_foxx/manifest.json
+service//index.js:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_foxx/service/index.js
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
