@@ -1,0 +1,32 @@
+START_OF_FOLDERS
+proj
+proj/src
+proj/src/main
+proj/src/main/java
+proj/src/main/resources
+proj/target
+proj/src/test
+END_OF_FOLDERS
+
+START_OF_FILES
+proj/src/main/java/Main.java:::linktomain.java
+manifest.json:::linktomanifest.json
+service//index.js:::linktoindex.js
+proj/pom.xml:::linktopom.xml
+END_OF_FILES
+
+START_OF_DEPLOYGOALS
+arangodb:::linktocommands
+END_OF_DEPLOYGOALS
+
+#content in files here will be replaced with the correct value
+#arangodb_password will be replaced with the arangodb password
+#ubuntu_username will be replaced with the ubuntu username
+#arangodb_port will be replaced with arangodb port
+#currently only username, port and password supported
+#example config file in LINKTOEXAMPLECONFIGFILE
+START_OF_CONFIG_FILES
+proj/src/main/resources/arangodb.properties
+END_OF_CONFIG_FILES
+
+

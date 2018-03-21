@@ -1,0 +1,12 @@
+START_OF_FOLDERS
+service
+END_OF_FOLDERS
+
+START_OF_FILES
+manifest.json:::linktomanifest.json
+service//index.js:::linktoindex.js
+END_OF_FILES
+
+START_OF_DEPLOYGOALS
+arangodb:::linktocommands
+END_OF_DEPLOYGOALS
