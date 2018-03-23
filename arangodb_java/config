@@ -10,8 +10,6 @@ END_OF_FOLDERS
 
 START_OF_FILES
 proj/src/main/java/Main.java:::linktomain.java
-manifest.json:::linktomanifest.json
-service//index.js:::linktoindex.js
 proj/pom.xml:::linktopom.xml
 END_OF_FILES
 
