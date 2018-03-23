@@ -26,7 +26,7 @@ END_OF_DEPLOYGOALS
 #currently only username, port and password supported
 #example config file in LINKTOEXAMPLECONFIGFILE
 START_OF_CONFIG_FILES
-proj/src/main/resources/arangodb.properties
+proj/src/main/resources/arangodb.properties:::link_to_arangodb.properties
 END_OF_CONFIG_FILES
 
 
