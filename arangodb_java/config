@@ -25,7 +25,7 @@ arangodb_username:::root
 END_OF_CONFIG_VARIABLES
 
 START_OF_CONFIG_FILES
-proj/src/main/resources/arangodb.properties:::link_to_arangodb.properties
+proj/src/main/resources/arangodb.properties:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_java/proj/src/main/resources/arangodb.properties
 END_OF_CONFIG_FILES
 
 
