@@ -15,6 +15,7 @@ END_OF_FILES
 
 START_OF_DEPLOYGOALS
 arangodb:::linktocommands
+ubuntu:::linktocommands
 END_OF_DEPLOYGOALS
 
 #content in files here will be replaced with the correct value
