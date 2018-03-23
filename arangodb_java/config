@@ -9,8 +9,8 @@ proj/src/test
 END_OF_FOLDERS
 
 START_OF_FILES
-proj/src/main/java/Main.java:::linktomain.java
-proj/pom.xml:::linktopom.xml
+proj/src/main/java/Main.java:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_java/proj/src/main/java/Main.java
+proj/pom.xml:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_java/proj/pom.xml
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
