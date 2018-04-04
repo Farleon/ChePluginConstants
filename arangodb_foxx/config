@@ -8,5 +8,5 @@ service//index.js:::https://raw.githubusercontent.com/Farleon/ChePluginConstants
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
-arangodb:::linktocommands
+arangodb:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_foxx/deploygoals/arangodb.config
 END_OF_DEPLOYGOALS
