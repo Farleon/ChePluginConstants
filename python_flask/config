@@ -1,0 +1,14 @@
+START_OF_FOLDERS
+flaskr
+flaskr/flaskr
+flaskr/flaskr/static
+flaskr/flaskr/templates
+END_OF_FOLDERS
+
+START_OF_FILES
+index.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/
+END_OF_FILES
+
+START_OF_DEPLOYGOALS
+ubuntu:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/deploygoals/ubuntu.config
+END_OF_DEPLOYGOALS
