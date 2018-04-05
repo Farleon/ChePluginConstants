@@ -14,12 +14,11 @@ proj/pom.xml:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/mast
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
-arangodb:::linktocommands
-ubuntu:::linktocommands
+ubuntu:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/arangodb_java/deploygoals/ubuntu.config
 END_OF_DEPLOYGOALS
 
 START_OF_CONFIG_VARIABLES
-arangodb_ip:::JUJU_AUTOFILL
+arangodb_ip:::10.10.138.70:8529
 arangodb_password:::KAc9Veam2soRgjHt+CXNYHeO
 arangodb_username:::root
 END_OF_CONFIG_VARIABLES
