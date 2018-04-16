@@ -22,5 +22,6 @@ START_OF_CONFIG_VARIABLES
 arangodb_ip:::10.10.138.70:8529
 arangodb_password:::KAc9Veam2soRgjHt+CXNYHeO
 arangodb_username:::root
+jujumachine_ubuntu::ubuntu-devenv/0
+deploylocation:::/home/user/test
 END_OF_CONFIG_VARIABLES
-
