@@ -6,7 +6,7 @@ flaskr/flaskr/templates
 END_OF_FOLDERS
 
 START_OF_FILES
-index.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/
+index.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/flaskr/index.py
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
