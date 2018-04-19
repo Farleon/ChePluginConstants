@@ -12,3 +12,7 @@ END_OF_FILES
 START_OF_DEPLOYGOALS
 ubuntu:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/deploygoals/ubuntu.config
 END_OF_DEPLOYGOALS
+
+START_OF_CONFIG_VARIABLES
+jujumachine_ubuntu::ubuntu-devenv/0
+END_OF_CONFIG_VARIABLES
