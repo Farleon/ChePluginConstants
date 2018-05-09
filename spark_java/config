@@ -18,6 +18,8 @@ ubuntu:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/spa
 END_OF_DEPLOYGOALS
 
 START_OF_CONFIG_VARIABLES
+jujumachine_ubuntu:::ubuntu-devenv/0
+deploylocation:::/home/user/spark
 END_OF_CONFIG_VARIABLES
 
 
