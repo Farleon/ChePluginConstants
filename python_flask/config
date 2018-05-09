@@ -1,8 +1,6 @@
 START_OF_FOLDERS
-flaskr
-flaskr/flaskr
-flaskr/flaskr/static
-flaskr/flaskr/templates
+static
+templates
 END_OF_FOLDERS
 
 START_OF_FILES
