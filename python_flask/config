@@ -1,10 +1,13 @@
 START_OF_FOLDERS
 static
 templates
+app
 END_OF_FOLDERS
 
 START_OF_FILES
-index.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/flaskr/index.py
+main.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/main.py
+app/routes.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/app/routes.py
+app/__init__.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/__init__.py
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
@@ -13,4 +16,14 @@ END_OF_DEPLOYGOALS
 
 START_OF_CONFIG_VARIABLES
 jujumachine_ubuntu:::ubuntu-devenv/0
+deploylocation:::/home/ubuntu/flask
 END_OF_CONFIG_VARIABLES
+
+START_OF_INSTALLATIONS
+sudo yum install -y epel-release
+sudo yum -y update
+sudo yum -y install python-pip
+sudo pip install virtualenv
+sudo pip install Flask
+
+END_OF_INSTALLATIONS
