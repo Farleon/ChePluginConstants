@@ -7,7 +7,7 @@ END_OF_FOLDERS
 START_OF_FILES
 main.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/main.py
 app/routes.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/app/routes.py
-app/__init__.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/__init__.py
+app/__init__.py:::https://raw.githubusercontent.com/Farleon/ChePluginConstants/master/python_flask/flaskr/app/__init__.py
 END_OF_FILES
 
 START_OF_DEPLOYGOALS
