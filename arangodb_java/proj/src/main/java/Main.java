@@ -13,15 +13,6 @@ public class Main {
         
         
         //your code here
-        
-        
-        
-        /*
-         * Run command
-         * cd ${current.project.path}
-            mvn package -B
-            cd target
-            java -jar $(ls|grep *-dependencies.jar)
-         */
+        //arangoDB.createDatabase("myDatabase");
     }
 }
